@@ -1,0 +1,58 @@
+.cardProducto {
+    width: 18rem;
+    margin:4px;
+    background-color: hsl(0, 0, 97%);
+}
+
+.cardProductos {
+    margin:4px;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardBody {
+    background-color: white;
+    margin-bottom: 3px;
+    text-align: center;
+}
+.cartWidget {
+    margin-right: 40px;
+    color: white;
+}
+.cartContainer {
+    margin-top: 3%;
+    margin-left: 26,5%;
+}
+.cardCart {
+    max-width: 640px;
+}
+.divButtons button {
+    margin: 4px;
+}
+img {
+    margin-top: 3px;
+    height: 100%;
+}
+
+.itemDetail {
+    max-width: 760px;
+    margin-top: 20px;
+
+}
+
+.contForm {
+    margin-top: 20px;
+}
+.nav-link {
+    margin: 6px;
+}
+
+form {
+    padding: 20px;
+    border-radius: 5px;
+    border-color: black;
+  
+  }
+  .form-label {
+    font-weight: lighter;
+  }
