@@ -110,8 +110,8 @@ export const Checkout = () => {
                 <input type="email" className="form-control" name="email" required onChange={handleChange} />
             </div>
             <div className="mb-3">
-                <label htmlFor="repeatemail" className="form-label">Ecriba Nuevamente Su Email</label>
-                <input type="email" className="form-control" name="repeatemail" required onChange={handleChange} />
+                <label htmlFor="repeatEmail" className="form-label">Ecriba Nuevamente Su Email</label>
+                <input type="email" className="form-control" name="repeatEmail" required onChange={handleChange} />
             </div>
             <div className="mb-3">
                 <label htmlFor="dni" className="form-label">Documento</label>
